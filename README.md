@@ -1,10 +1,10 @@
 # 数据集
 ## Table of Contents
 
-- [java40](#Java40)
-- [java-gcj](#java-gcj)
-- [c++](#c++)
-- [c-github](#c-github)
+- [java40数据集](#Java40)
+- [java-gcj数据集](#java-gcj)
+- [c++数据集](#c++)
+- [c-github数据集](#c-github)
 ## java40
 >  目录结构：  
 >> 十折
