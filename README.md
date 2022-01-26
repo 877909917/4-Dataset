@@ -1,7 +1,7 @@
 # author-style-transform
 > java40
 >> 十折
-  test_20：与目标作者相同的20个测试集作者
+>>>  test_20：与目标作者相同的20个测试集作者
 >>>  test_40：全部测试集作者
 >>>  train：训练集
 >>>  output：代码变换输出：
