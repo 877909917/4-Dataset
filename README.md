@@ -1,5 +1,12 @@
-# author-style-transform
-> java40
+# 数据集
+## Table of Contents
+
+- [java40](#Java40)
+- [java-gcj](#java-gcj)
+- [c++](#c++)
+- [c-github](#c-github)
+## java40
+>  目录结构：  
 >> 十折
 >>>  test_20：与目标作者相同的20个作者的测试集样本  
 >>>  test_40：全部测试集作者样本  
@@ -10,3 +17,8 @@
 >>>> 非定向-40-best：从40个目标作者中选出最好的。  
 >>>> 非定向-40-随机：随机选取目标作者，生成的非定向数据样本。  
 
+## java-gcj
+
+## c++
+
+## c-github
